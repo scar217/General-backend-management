@@ -1,6 +1,9 @@
-**项目简介：**
+## 项目简介
+
 通用后台管理系统，基于某园区运营场景搭建的统一后台管理系统，覆盖租户、物业、财务、设备、能源、运营等业务模块，实现角色化登录、动态菜单、权限控制、数据列表管理与可视化展示，支持在无后端环境下的全链路前端联调。
-**技术栈：**
+
+## 技术栈
+
 React18 + TypeScript + React Router v6 + Redux Toolkit + Ant Design + Axios + ECharts + Mock.js + Sass
 
 ## Available Scripts
